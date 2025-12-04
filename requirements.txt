@@ -1,0 +1,30 @@
+# --- Core Python dependencies ---
+requests
+python-dotenv
+
+# --- Data manipulation & analysis ---
+pandas
+numpy
+
+# --- Databases ---
+psycopg2-binary        # PostgreSQL connector
+SQLAlchemy             # ORM + engine for PostgreSQL
+pymongo                # MongoDB client
+
+# --- NLP & text cleaning ---
+nltk
+vaderSentiment
+
+# --- Visualization ---
+matplotlib
+seaborn
+wordcloud
+
+# --- Dashboarding ---
+streamlit
+
+# --- Notebooks ---
+jupyter
+
+# --- Optional helpers (recommended) ---
+tqdm                   # progress bars
